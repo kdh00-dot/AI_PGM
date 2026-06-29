@@ -1,0 +1,25 @@
+assignment (대입, 할당 : 우측 수식의 연산 결과를 왼쪽의 변수에 대입 )
+variable = expression			a = 1
+	       literal or constant		a = b
+               variable			a = b + 1
+               function			a = sum(1, 2) * a + 1
+			(variable , literal, operator, function)
+
+1. if
+2. if ~ else
+3. if ~elif ~elif ~ ... else
+
+match 수식:
+	case 값1:
+	case 값2:
+	....
+	case _
+
+(조건식)? "A":"B";
+
+프로그래밍 에러
+1. syntax(구문) error
+2. rum time error(exception)
+3. semantic error
+
+
